@@ -1,4 +1,4 @@
-package com.lsalazar.apps.androidfunwithflags;
+package com.Luis_Salazar_2doParcial_prueba_01.apps.androidfunwithflags;
 
 
 import android.app.AlertDialog;
@@ -9,7 +9,7 @@ import android.arch.lifecycle.ViewModelProviders;
 import android.os.Bundle;
 import android.util.Log;
 
-import com.lsalazar.apps.lifecyclehelpers.QuizViewModel;
+import com.Luis_Salazar_2doParcial_prueba_01.apps.lifecyclehelpers.QuizViewModel;
 
 public class ResultsDialogFragment extends DialogFragment{
 

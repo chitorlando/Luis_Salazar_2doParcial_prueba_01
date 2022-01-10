@@ -1,11 +1,11 @@
-package com.lsalazar.apps.eventhandlers;
+package com.Luis_Salazar_2doParcial_prueba_01.apps.eventhandlers;
 
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.OnSharedPreferenceChangeListener;
 import android.widget.Toast;
 
-import com.lsalazar.apps.androidfunwithflags.MainActivity;
-import com.lsalazar.apps.androidfunwithflags.R;
+import com.Luis_Salazar_2doParcial_prueba_01.apps.androidfunwithflags.MainActivity;
+import com.Luis_Salazar_2doParcial_prueba_01.apps.androidfunwithflags.R;
 
 import java.util.Set;
 

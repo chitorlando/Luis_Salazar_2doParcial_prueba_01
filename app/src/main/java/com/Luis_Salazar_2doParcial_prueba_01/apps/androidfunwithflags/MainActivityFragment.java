@@ -1,4 +1,4 @@
-package com.lsalazar.apps.androidfunwithflags;
+package com.Luis_Salazar_2doParcial_prueba_01.apps.androidfunwithflags;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -28,8 +28,8 @@ import android.widget.TextView;
 import android.widget.TableLayout;
 import android.widget.TableRow;
 
-import com.lsalazar.apps.eventhandlers.GuessButtonListener;
-import com.lsalazar.apps.lifecyclehelpers.QuizViewModel;
+import com.Luis_Salazar_2doParcial_prueba_01.apps.eventhandlers.GuessButtonListener;
+import com.Luis_Salazar_2doParcial_prueba_01.apps.lifecyclehelpers.QuizViewModel;
 
 public class MainActivityFragment extends Fragment {
 

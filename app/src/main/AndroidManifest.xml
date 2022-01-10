@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.lsalazar.apps.androidfunwithflags">
+    package="com.Luis_Salazar_2doParcial_prueba_01.apps.androidfunwithflags">
 
     <application
         android:allowBackup="true"
@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name="com.lsalazar.apps.androidfunwithflags.MainActivity"
+            android:name="com.Luis_Salazar_2doParcial_prueba_01.apps.androidfunwithflags.MainActivity"
             android:label="@string/app_name"
             android:launchMode="singleTop"
             android:theme="@style/AppTheme.NoActionBar">
@@ -20,13 +20,13 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.lsalazar.apps.androidfunwithflags.SettingsActivity"
+            android:name="com.Luis_Salazar_2doParcial_prueba_01.apps.androidfunwithflags.SettingsActivity"
             android:label="@string/title_activity_settings"
-            android:parentActivityName="com.lsalazar.apps.androidfunwithflags.MainActivity"
+            android:parentActivityName="com.Luis_Salazar_2doParcial_prueba_01.apps.androidfunwithflags.MainActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.lsalazar.apps.androidfunwithflags.MainActivity" />
+                android:value="com.Luis_Salazar_2doParcial_prueba_01.apps.androidfunwithflags.MainActivity" />
         </activity>
     </application>
 

@@ -1,4 +1,4 @@
-package com.lsalazar.apps.eventhandlers;
+package com.Luis_Salazar_2doParcial_prueba_01.apps.eventhandlers;
 
 import android.os.Handler;
 import android.util.Log;
@@ -6,10 +6,10 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
-import com.lsalazar.apps.androidfunwithflags.MainActivityFragment;
-import com.lsalazar.apps.androidfunwithflags.R;
-import com.lsalazar.apps.androidfunwithflags.ResultsDialogFragment;
-import com.lsalazar.apps.lifecyclehelpers.QuizViewModel;
+import com.Luis_Salazar_2doParcial_prueba_01.apps.androidfunwithflags.MainActivityFragment;
+import com.Luis_Salazar_2doParcial_prueba_01.apps.androidfunwithflags.R;
+import com.Luis_Salazar_2doParcial_prueba_01.apps.androidfunwithflags.ResultsDialogFragment;
+import com.Luis_Salazar_2doParcial_prueba_01.apps.lifecyclehelpers.QuizViewModel;
 
 public class GuessButtonListener implements OnClickListener {
     private MainActivityFragment mainActivityFragment;

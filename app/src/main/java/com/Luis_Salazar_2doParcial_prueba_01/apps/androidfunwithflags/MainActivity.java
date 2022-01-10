@@ -1,4 +1,4 @@
-package com.lsalazar.apps.androidfunwithflags;
+package com.Luis_Salazar_2doParcial_prueba_01.apps.androidfunwithflags;
 
 import android.arch.lifecycle.ViewModelProviders;
 import android.content.Intent;
@@ -12,8 +12,8 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.lsalazar.apps.eventhandlers.PreferenceChangeListener;
-import com.lsalazar.apps.lifecyclehelpers.QuizViewModel;
+import com.Luis_Salazar_2doParcial_prueba_01.apps.eventhandlers.PreferenceChangeListener;
+import com.Luis_Salazar_2doParcial_prueba_01.apps.lifecyclehelpers.QuizViewModel;
 
 public class MainActivity extends AppCompatActivity {
     public static final String CHOICES = "pref_numberOfChoices";

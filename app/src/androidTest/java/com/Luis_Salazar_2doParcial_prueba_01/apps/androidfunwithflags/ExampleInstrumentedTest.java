@@ -1,4 +1,4 @@
-package com.lsalazar.apps.androidfunwithflags;
+package com.Luis_Salazar_2doParcial_prueba_01.apps.androidfunwithflags;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
