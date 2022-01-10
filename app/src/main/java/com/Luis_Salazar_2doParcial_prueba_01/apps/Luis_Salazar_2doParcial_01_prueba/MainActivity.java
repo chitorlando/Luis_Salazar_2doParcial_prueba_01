@@ -1,4 +1,4 @@
-package com.Luis_Salazar_2doParcial_prueba_01.apps.androidfunwithflags;
+package com.Luis_Salazar_2doParcial_prueba_01.apps.Luis_Salazar_2doParcial_01_prueba;
 
 import android.arch.lifecycle.ViewModelProviders;
 import android.content.Intent;
