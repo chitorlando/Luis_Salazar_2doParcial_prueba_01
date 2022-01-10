@@ -1,4 +1,4 @@
-package com.omilec.apps.lifecyclehelpers;
+package com.lsalazar.apps.lifecyclehelpers;
 
 import android.arch.lifecycle.ViewModel;
 import android.content.res.AssetManager;

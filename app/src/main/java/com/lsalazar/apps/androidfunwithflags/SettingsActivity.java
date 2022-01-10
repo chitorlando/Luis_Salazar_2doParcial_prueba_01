@@ -1,4 +1,4 @@
-package com.omilec.apps.androidfunwithflags;
+package com.lsalazar.apps.androidfunwithflags;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

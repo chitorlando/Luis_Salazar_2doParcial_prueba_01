@@ -1,4 +1,4 @@
-package com.omilec.apps.eventhandlers;
+package com.lsalazar.apps.eventhandlers;
 
 import android.os.Handler;
 import android.util.Log;
@@ -6,10 +6,10 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
-import com.omilec.apps.androidfunwithflags.MainActivityFragment;
-import com.omilec.apps.androidfunwithflags.R;
-import com.omilec.apps.androidfunwithflags.ResultsDialogFragment;
-import com.omilec.apps.lifecyclehelpers.QuizViewModel;
+import com.lsalazar.apps.androidfunwithflags.MainActivityFragment;
+import com.lsalazar.apps.androidfunwithflags.R;
+import com.lsalazar.apps.androidfunwithflags.ResultsDialogFragment;
+import com.lsalazar.apps.lifecyclehelpers.QuizViewModel;
 
 public class GuessButtonListener implements OnClickListener {
     private MainActivityFragment mainActivityFragment;

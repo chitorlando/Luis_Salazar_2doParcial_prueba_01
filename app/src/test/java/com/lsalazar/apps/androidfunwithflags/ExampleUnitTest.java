@@ -1,4 +1,4 @@
-package com.omilec.apps.androidfunwithflags;
+package com.lsalazar.apps.androidfunwithflags;
 
 import org.junit.Test;
 

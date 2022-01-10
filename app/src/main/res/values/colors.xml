@@ -8,4 +8,7 @@
     <color name="button_enabled">#3F51B5</color>
     <color name="button_pressed">#303F9F</color>
     <color name="button_disabled">#7F7F7F</color>
+    <color name="gris">#808B96</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="teal_200">#FF03DAC5</color>
 </resources>
