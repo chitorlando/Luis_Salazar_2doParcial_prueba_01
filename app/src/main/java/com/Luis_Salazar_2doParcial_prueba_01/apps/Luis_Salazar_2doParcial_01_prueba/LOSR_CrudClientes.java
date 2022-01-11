@@ -2,6 +2,8 @@ package com.Luis_Salazar_2doParcial_prueba_01.apps.Luis_Salazar_2doParcial_01_pr
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
 
 import android.content.ContentValues;
 import android.database.Cursor;
@@ -11,7 +13,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-public class LOSR_MantenimientoClientes extends AppCompatActivity{
+public class LOSR_CrudClientes extends AppCompatActivity {
 
     private EditText editTextCodigo;
     private EditText editTextNombre;
@@ -25,10 +27,12 @@ public class LOSR_MantenimientoClientes extends AppCompatActivity{
     private Button buttonDelete;
     private Button buttonEddit;
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_cdcp_crud_clients);
+        setContentView(R.layout.activity_login_activiy);
 
         editTextCodigo = findViewById(R.id.editTextCodigo);
         editTextNombre = findViewById(R.id.editTextNombre);

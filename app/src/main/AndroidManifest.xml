@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".LOSR_CrudClientes"
+            android:exported="false" />
+        <activity
             android:name=".LoginActiviy"
             android:exported="false" />
         <activity

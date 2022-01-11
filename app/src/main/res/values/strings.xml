@@ -17,4 +17,15 @@
     <string name="image_description">Imagen de la bandera actual en el cuestionario</string>
     <string name="default_region">Europa</string>
     <string name="title_activity_settings">Ajustes</string>
+
+    <string name="tv_titulo">Mantenimiento de Clientes</string>
+    <string name="et_Codigo">Codigo</string>
+    <string name="et_Nombre">Ingrese Nombre</string>
+    <string name="et_Apellido">Ingrese Apellido</string>
+    <string name="et_Correo">Ingrese Correo</string>
+
+    <string name="btn_insertar">Insertar</string>
+    <string name="btn_buscar">Buscar Por Codigo</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="btn_editar">Editar</string>
 </resources>
