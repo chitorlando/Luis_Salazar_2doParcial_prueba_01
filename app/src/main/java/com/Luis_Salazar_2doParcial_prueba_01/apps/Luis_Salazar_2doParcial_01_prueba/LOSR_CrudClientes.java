@@ -2,8 +2,6 @@ package com.Luis_Salazar_2doParcial_prueba_01.apps.Luis_Salazar_2doParcial_01_pr
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 
 import android.content.ContentValues;
 import android.database.Cursor;
@@ -32,14 +30,14 @@ public class LOSR_CrudClientes extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_login_activiy);
+        setContentView(R.layout.activity_losr_crud_clientes);
 
-        editTextCodigo = findViewById(R.id.editTextCodigo);
+        editTextCodigo = findViewById(R.id.);
         editTextNombre = findViewById(R.id.editTextNombre);
         editTextApellido = findViewById(R.id.editTextApellido);
         editTextCorreo = findViewById(R.id.editTextCorreo);
-        editTextUsr = findViewById(R.id.editTextUsr);
-        editTextPasswd = findViewById(R.id.editTextTextPassword);
+        editTextUsr = findViewById(R.id.editTextUsuario);
+        editTextPasswd = findViewById(R.id.editTextPassword);
 
         buttonInsert = findViewById(R.id.button_insertar);
         buttonFind = findViewById(R.id.button_buscar);
