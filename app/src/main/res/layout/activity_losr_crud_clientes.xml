@@ -50,46 +50,51 @@
         android:hint="@string/et_Correo"
         android:inputType="textEmailAddress"
         android:minHeight="48dp" />
+
     <EditText
         android:id="@+id/editTextUsr"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:hint="Usuario"
-        android:inputType="textEmailAddress"
+        android:hint="@string/et_Usr"
+        android:inputType="textPersonName"
         android:minHeight="48dp" />
 
     <EditText
-        android:id="@+id/editTextPas"
+        android:id="@+id/editTextPassword"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:hint="Pasword"
-        android:inputType="textEmailAddress"
+        android:hint="@string/et_Passwd"
+        android:inputType="textPassword"
         android:minHeight="48dp" />
-
 
     <Button
         android:id="@+id/button_insertar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:onClick="onClicInsertar"
         android:text="@string/btn_insertar" />
 
     <Button
         android:id="@+id/button_buscar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:onClick="onClicBuscar"
         android:text="@string/btn_buscar" />
 
     <Button
         android:id="@+id/button_eliminar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:onClick="onClicEliminar"
         android:text="@string/btn_eliminar" />
 
     <Button
         android:id="@+id/button_editar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:onClick="onClicEditar"
         android:text="@string/btn_editar" />
+
 </LinearLayout>

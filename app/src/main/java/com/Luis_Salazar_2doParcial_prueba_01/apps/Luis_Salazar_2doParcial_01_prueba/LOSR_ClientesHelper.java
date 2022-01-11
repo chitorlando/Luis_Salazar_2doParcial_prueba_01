@@ -3,8 +3,8 @@ package com.Luis_Salazar_2doParcial_prueba_01.apps.Luis_Salazar_2doParcial_01_pr
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
+import android.support.annotation.Nullable;
 
-import androidx.annotation.Nullable;
 
 public class LOSR_ClientesHelper extends SQLiteOpenHelper {
 

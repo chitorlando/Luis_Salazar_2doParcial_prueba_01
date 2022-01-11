@@ -28,4 +28,6 @@
     <string name="btn_buscar">Buscar Por Codigo</string>
     <string name="btn_eliminar">Eliminar</string>
     <string name="btn_editar">Editar</string>
+    <string name="et_Passwd">Contraseña</string>
+    <string name="et_Usr">Usuario</string>
 </resources>

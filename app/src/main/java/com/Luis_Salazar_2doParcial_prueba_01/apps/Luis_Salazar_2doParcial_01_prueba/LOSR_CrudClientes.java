@@ -32,11 +32,11 @@ public class LOSR_CrudClientes extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_losr_crud_clientes);
 
-        editTextCodigo = findViewById(R.id.);
+        editTextCodigo = findViewById(R.id.editTextCodigo);
         editTextNombre = findViewById(R.id.editTextNombre);
         editTextApellido = findViewById(R.id.editTextApellido);
         editTextCorreo = findViewById(R.id.editTextCorreo);
-        editTextUsr = findViewById(R.id.editTextUsuario);
+        editTextUsr = findViewById(R.id.editTextUsr);
         editTextPasswd = findViewById(R.id.editTextPassword);
 
         buttonInsert = findViewById(R.id.button_insertar);
