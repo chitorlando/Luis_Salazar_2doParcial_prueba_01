@@ -3,9 +3,6 @@ package com.Luis_Salazar_2doParcial_prueba_01.apps.Luis_Salazar_2doParcial_01_pr
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import android.content.ContentValues;
-import android.database.Cursor;
-import android.database.sqlite.SQLiteDatabase;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -37,7 +34,7 @@ public class LOSR_CrudClientes extends AppCompatActivity {
         editTextApellido = findViewById(R.id.editTextApellido);
         editTextCorreo = findViewById(R.id.editTextCorreo);
         editTextUsr = findViewById(R.id.editTextUsr);
-        editTextPasswd = findViewById(R.id.editTextPassword);
+        editTextPasswd = findViewById(R.id.editTextPasswd);
 
         buttonInsert = findViewById(R.id.button_insertar);
         buttonFind = findViewById(R.id.button_buscar);
